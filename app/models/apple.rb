@@ -1,2 +1,2 @@
-class Apple < ApplicationRecord
+class Apple < PublicSchema
 end

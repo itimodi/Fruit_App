@@ -1,2 +1,2 @@
-class Banana < ApplicationRecord
+class Banana < BananaSchema
 end
